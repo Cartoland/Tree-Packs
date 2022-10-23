@@ -1,3 +1,2 @@
-# Tree-Packs
-A Copyleft Tree Packs For Minecraft Builders
-
+# 無版權樹包
+A Copy-less Tree Packs For Minecraft Builders
